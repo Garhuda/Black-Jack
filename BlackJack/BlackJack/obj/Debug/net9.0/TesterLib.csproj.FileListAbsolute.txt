@@ -1,0 +1,28 @@
+C:\Users\hudak\Desktop\StudentTester\TesterLib\obj\Debug\net9.0\TesterLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudak\Desktop\StudentTester\TesterLib\obj\Debug\net9.0\TesterLib.AssemblyInfoInputs.cache
+C:\Users\hudak\Desktop\StudentTester\TesterLib\obj\Debug\net9.0\TesterLib.AssemblyInfo.cs
+C:\Users\hudak\Desktop\StudentTester\TesterLib\obj\Debug\net9.0\TesterLib.csproj.CoreCompileInputs.cache
+C:\Users\hudak\Desktop\StudentTester\TesterLib\bin\Debug\net9.0\TesterLib.deps.json
+C:\Users\hudak\Desktop\StudentTester\TesterLib\bin\Debug\net9.0\TesterLib.dll
+C:\Users\hudak\Desktop\StudentTester\TesterLib\bin\Debug\net9.0\TesterLib.pdb
+C:\Users\hudak\Desktop\StudentTester\TesterLib\obj\Debug\net9.0\TesterLib.dll
+C:\Users\hudak\Desktop\StudentTester\TesterLib\obj\Debug\net9.0\refint\TesterLib.dll
+C:\Users\hudak\Desktop\StudentTester\TesterLib\obj\Debug\net9.0\TesterLib.pdb
+C:\Users\hudak\Desktop\StudentTester\TesterLib\obj\Debug\net9.0\ref\TesterLib.dll
+C:\Users\hudak\Desktop\StudentTester\TesterLib\bin\Debug\net9.0\TesterLib.exe
+C:\Users\hudak\Desktop\StudentTester\TesterLib\bin\Debug\net9.0\TesterLib.runtimeconfig.json
+C:\Users\hudak\Desktop\StudentTester\TesterLib\obj\Debug\net9.0\TesterLib.genruntimeconfig.cache
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\bin\Debug\net9.0\TesterLib.exe
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\bin\Debug\net9.0\TesterLib.deps.json
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\bin\Debug\net9.0\TesterLib.runtimeconfig.json
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\bin\Debug\net9.0\TesterLib.dll
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\bin\Debug\net9.0\TesterLib.pdb
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\obj\Debug\net9.0\TesterLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\obj\Debug\net9.0\TesterLib.AssemblyInfoInputs.cache
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\obj\Debug\net9.0\TesterLib.AssemblyInfo.cs
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\obj\Debug\net9.0\TesterLib.csproj.CoreCompileInputs.cache
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\obj\Debug\net9.0\TesterLib.dll
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\obj\Debug\net9.0\refint\TesterLib.dll
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\obj\Debug\net9.0\TesterLib.pdb
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\obj\Debug\net9.0\TesterLib.genruntimeconfig.cache
+C:\Users\hudak\Desktop\StudentTester - Copy\TesterLib\obj\Debug\net9.0\ref\TesterLib.dll

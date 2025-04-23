@@ -1,0 +1,28 @@
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\bin\Debug\net9.0\BlackJack.exe
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\bin\Debug\net9.0\BlackJack.deps.json
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\bin\Debug\net9.0\BlackJack.runtimeconfig.json
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\bin\Debug\net9.0\BlackJack.dll
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\bin\Debug\net9.0\BlackJack.pdb
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\obj\Debug\net9.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\obj\Debug\net9.0\BlackJack.AssemblyInfoInputs.cache
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\obj\Debug\net9.0\BlackJack.AssemblyInfo.cs
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\obj\Debug\net9.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\obj\Debug\net9.0\BlackJack.dll
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\obj\Debug\net9.0\refint\BlackJack.dll
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\obj\Debug\net9.0\BlackJack.pdb
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\obj\Debug\net9.0\BlackJack.genruntimeconfig.cache
+C:\Users\hudak\Desktop\StudentTester - Copy\BlackJack\obj\Debug\net9.0\ref\BlackJack.dll
+c:\Users\hudak\Desktop\BlackJack\BlackJack\bin\Debug\net9.0\BlackJack.exe
+C:\Users\hudak\Desktop\BlackJack\BlackJack\bin\Debug\net9.0\BlackJack.deps.json
+C:\Users\hudak\Desktop\BlackJack\BlackJack\bin\Debug\net9.0\BlackJack.runtimeconfig.json
+c:\Users\hudak\Desktop\BlackJack\BlackJack\bin\Debug\net9.0\BlackJack.dll
+c:\Users\hudak\Desktop\BlackJack\BlackJack\bin\Debug\net9.0\BlackJack.pdb
+c:\Users\hudak\Desktop\BlackJack\BlackJack\obj\Debug\net9.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hudak\Desktop\BlackJack\BlackJack\obj\Debug\net9.0\BlackJack.AssemblyInfoInputs.cache
+c:\Users\hudak\Desktop\BlackJack\BlackJack\obj\Debug\net9.0\BlackJack.AssemblyInfo.cs
+c:\Users\hudak\Desktop\BlackJack\BlackJack\obj\Debug\net9.0\BlackJack.csproj.CoreCompileInputs.cache
+c:\Users\hudak\Desktop\BlackJack\BlackJack\obj\Debug\net9.0\BlackJack.dll
+c:\Users\hudak\Desktop\BlackJack\BlackJack\obj\Debug\net9.0\refint\BlackJack.dll
+c:\Users\hudak\Desktop\BlackJack\BlackJack\obj\Debug\net9.0\BlackJack.pdb
+C:\Users\hudak\Desktop\BlackJack\BlackJack\obj\Debug\net9.0\BlackJack.genruntimeconfig.cache
+C:\Users\hudak\Desktop\BlackJack\BlackJack\obj\Debug\net9.0\ref\BlackJack.dll
